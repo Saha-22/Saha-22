@@ -1,3 +1,5 @@
+![logo](https://github.com/Saha-22/Saha-22/blob/main/BANNER.png)
+
 <h1 align="center">Hello👋, I'm Sourav Saha</h1>
 <h3 align="center">Currently, an undergraduate student at Independent University, Bangladesh, pursuing my BSc in Computer Science and Engineering with a minor in Management Information Systems.</h3>
 
