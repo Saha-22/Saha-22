@@ -5,7 +5,7 @@
 
 - 📫 Email **souravsaha.ss14@gmail.com**
   
-- 👨‍💻 Research Work [https://www.researchgate.net/profile/Sourav-Saha-37](https://www.researchgate.net/profile/Sourav-Saha-37)
+- 👨‍💻 Research Work [Sourav Saha](https://www.researchgate.net/profile/Sourav-Saha-37)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
