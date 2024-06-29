@@ -10,7 +10,8 @@
   
 - 👨‍💻 Research Work [Sourav Saha](https://www.researchgate.net/profile/Sourav-Saha-37)
 
-- 📑 Curriculum Vitae [Sourav Saha](https://drive.google.com/file/d/1GZWQGVRb_3b8ukeBdEtWPDE3ce_fQ6b9/view?usp=drive_link)
+- 📑 Curriculum Vitae [Sourav Saha](https://drive.google.com/file/d/1ug5Sc4B2lkoHsP54PJRXxl5JVNYmbcrl/view?usp=drive_link)
+
   
 <p align="left">
 <a href="https://linkedin.com/in/sourav-saha-2000ss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sourav-saha-2000ss" height="30" width="40" /></a>
