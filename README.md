@@ -31,7 +31,7 @@ I have experience working with a variety of technologies and tools including:
 - Web Development: HTML, CSS
 - Framework: Angular, Bootstrap, Tailwind
 - Databases: SQL, MySQL
-- Software & Tools: Cisco Packet Tracer, Adobe Illustrator, Adobe Photoshop, Microsoft Office, Microsoft SQL Server, Fritzing, LATEX
+- Software & Tools: Power BI, Tableau, Cisco Packet Tracer, Adobe Illustrator, Adobe Photoshop, Microsoft Office, Microsoft SQL Server, Fritzing, LATEX
 - Cloud Platform: Amazon Web Services (AWS)
 - Languages: Bengali, English
 - Other: Arduino
